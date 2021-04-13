@@ -1,2 +1,2 @@
 # profile-card
-Profile Card Challenhe
+Profile Card Challenge
