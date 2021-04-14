@@ -15,10 +15,7 @@
 </head>
 <body>
 
-    <img src="file:///Users/user1/Documents/profile-card-component-main/images/image-victor.jpg" alt="Photo of Victor">
 
-
-<div>
 
 <div class="name">
   Victor Crest
