@@ -1,5 +1,3 @@
-# profile-card
-Profile Card Challenge
 <!DOCTYPE html>
 <html lang="en">
 <head>
